@@ -20,9 +20,13 @@
     </button>
 
   </div>
-
-  <div *ngIf=finished class="quizz_results">
-    <h1>O Seu resultado é:</h1>
-    <p>{{answerSelected}}</p>
+  
+  <div *ngIf="finished" class="quizz_results">
+    <h1>O seu resultado é:</h1>
+  
+    <div *ngIf="answerSelected" class="result-card">
+      <h2>{{ answerSelected.text }}</h2>
+      <img [src]="answerSelected.image" alt="Resultado do quiz" />
+    </div>
   </div>
-</div>
+  

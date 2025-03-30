@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import quizz_questions from "../../../assets/data/quizz_questions.json"
+import quizz_questions from "../../../assets/data/quizz_questions_mulher_icônica_da_tecnologia.json"
 
 @Component({
   selector: 'app-quizz',
@@ -15,7 +15,8 @@ export class QuizzComponent implements OnInit {
   questionSelected:any
 
   answers:string[] = []
-  answerSelected:string =""
+  answerSelected: { text: string, image: string } | null = null;
+
 
   questionIndex:number =0
   questionMaxIndex:number=0

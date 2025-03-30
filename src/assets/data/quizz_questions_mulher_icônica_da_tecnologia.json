@@ -1,0 +1,77 @@
+{
+  "title": "Qual mulher icônica da tecnologia você seria? 👩‍💻🌟",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Qual dessas frases te representa melhor?",
+      "options": [
+        { "id": 1, "name": "A lógica também pode ser poesia.", "alias": "A" },
+        { "id": 2, "name": "Nada é impossível quando mulheres se unem.", "alias": "B" },
+        { "id": 3, "name": "A inovação nasce da curiosidade.", "alias": "C" },
+        { "id": 4, "name": "Tecnologia é para todas!", "alias": "D" }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Você prefere atuar mais em qual dessas áreas?",
+      "options": [
+        { "id": 1, "name": "Ciência de dados e algoritmos", "alias": "A" },
+        { "id": 2, "name": "Gestão de equipes e cultura tech", "alias": "B" },
+        { "id": 3, "name": "Inovação e pesquisa", "alias": "C" },
+        { "id": 4, "name": "Educação, inclusão e diversidade", "alias": "D" }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Seu maior superpoder tech é:",
+      "options": [
+        { "id": 1, "name": "Resolver problemas com elegância e lógica", "alias": "A" },
+        { "id": 2, "name": "Empoderar outras pessoas ao meu redor", "alias": "B" },
+        { "id": 3, "name": "Criar soluções que mudam o futuro", "alias": "C" },
+        { "id": 4, "name": "Tornar a tecnologia mais acessível", "alias": "D" }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Qual dessas ferramentas você gostaria de dominar?",
+      "options": [
+        { "id": 1, "name": "Python para criar algoritmos incríveis", "alias": "A" },
+        { "id": 2, "name": "Ferramentas de liderança ágil", "alias": "B" },
+        { "id": 3, "name": "Tecnologias emergentes como IA ou Quantum", "alias": "C" },
+        { "id": 4, "name": "Figma, HTML e recursos educacionais", "alias": "D" }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Se você tivesse um projeto dos sonhos, ele seria sobre...",
+      "options": [
+        { "id": 1, "name": "Criar algoritmos que ajudam pessoas com deficiência", "alias": "A" },
+        { "id": 2, "name": "Fundar uma empresa liderada por mulheres", "alias": "B" },
+        { "id": 3, "name": "Transformar o mundo com ciência e tecnologia", "alias": "C" },
+        { "id": 4, "name": "Ensinar tecnologia em comunidades", "alias": "D" }
+      ]
+    }
+  ],
+"results": {
+  "A": {
+    "text": "✨ Ada Lovelace! A primeira programadora da história. Você é lógica, criativa e sempre vê padrões onde ninguém mais vê. Sua mente transforma matemática em magia.",
+    "image": "https://s2-techtudo.glbimg.com/7YOBBhghbMF9wsUuBP7UcUh2yXI=/0x342:2439x2307/1008x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/n/3/FbrmyhQneVYWGUPIe8vA/adalovelace.jpg"
+  },
+
+  "B": {
+    "text": "👩🏽‍🚀  Katherine Johnson! Você seria uma mente brilhante nos bastidores que leva equipes inteiras ao sucesso. Dona de uma inteligência silenciosa e uma força imensa.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Katherine_Johnson_at_NASA%2C_in_1966.jpg/200px-Katherine_Johnson_at_NASA%2C_in_1966.jpg"
+  },
+
+  "C": {
+    "text": "🔬 Radia Perlman! Inovadora, destemida e com uma mente voltada para o futuro. Assim como a 'mãe da internet', você constrói pontes tecnológicas com propósito.",
+    "image": "https://mujeresconciencia.com/app/uploads/2020/12/Dv0822jXcAATR6L.jpg"
+  },
+
+  "D": {
+    "text": "📚 Grace Hopper! Educadora nata, curiosa e apaixonada por ensinar. Você acredita que tecnologia deve ser acessível — e não mede esforços para transformar isso em realidade!",
+    "image": "https://nicenews.com/wp-content/uploads/sites/2/2023/12/GettyImages-50336184-1024x692-1-1.jpg"
+  }
+
+}
+}
