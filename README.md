@@ -1,32 +1,79 @@
+# 👩‍💻🌟 ProjetoBuzzfeed - Mulheres Icônicas da Tecnologia
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a6e8e5dd-68f7-4414-8e55-0741f6f9b360" alt="Preview do projeto" width="400"/>
+</div>
 
 
-<img src="https://github.com/user-attachments/assets/230e589e-ea6d-4355-b9f5-3565bc8af3f7" alt="Preview do projeto" width="600"/>
+Este projeto é um quiz interativo inspirado nos quizzes do Buzzfeed, com o objetivo de celebrar mulheres incríveis que marcaram a história da tecnologia. Ao final das perguntas, descubra com qual dessas personalidades tech você mais se identifica!
+
+---
+
+## ✨ Sobre o Quiz
+
+> **Qual mulher icônica da tecnologia você seria?**
+
+O quiz apresenta 5 perguntas, cada uma com 4 alternativas. Com base nas suas respostas, você descobrirá se se parece mais com Ada Lovelace, Katherine Johnson, Radia Perlman ou Grace Hopper — todas referências poderosas no mundo tech!
+
+---
+
+## 💡 Perguntas do Quiz
+
+Alguns exemplos de perguntas:
+
+- "Qual dessas frases te representa melhor?"
+- "Você prefere atuar mais em qual dessas áreas?"
+- "Seu maior superpoder tech é?"
+- "Qual dessas ferramentas você gostaria de dominar?"
+- "Se você tivesse um projeto dos sonhos, ele seria sobre..."
+
+---
 
 
-# ProjetoBuzzfeed
+## 👩‍🔬 Resultados
+<img src="https://github.com/user-attachments/assets/eb5b1a64-eda9-40bc-8d11-1e740ea89ed5" alt="Preview do projeto" width="600"/>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
-## Development server
+| Alias | Mulher Icônica       | Descrição                                                                 |
+|-------|----------------------|---------------------------------------------------------------------------|
+| A     | **Ada Lovelace**     | A primeira programadora da história. Uma mente criativa e lógica.        |
+| B     | **Katherine Johnson**| A mente brilhante da NASA, líder e inspiradora.                          |
+| C     | **Radia Perlman**    | Inovadora, destemida e visionária — a mãe da internet.                    |
+| D     | **Grace Hopper**     | Educadora nata e pioneira da programação acessível.                      |
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+---
 
-## Code scaffolding
+## 🖼️ Exemplo de Resultado
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+> ✨ **Ada Lovelace!**  
+> Você é lógica, criativa e sempre vê padrões onde ninguém mais vê. Sua mente transforma matemática em magia.
 
-## Build
+<img src="https://s2-techtudo.glbimg.com/7YOBBhghbMF9wsUuBP7UcUh2yXI=/0x342:2439x2307/1008x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/n/3/FbrmyhQneVYWGUPIe8vA/adalovelace.jpg" width="40%" alt="Ada Lovelace">
+---
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## 🛠️ Tecnologias Utilizadas
 
-## Running unit tests
+- Angular CLI 14.1.2
+- TypeScript
+- HTML/CSS
+- JSON para estrutura dos dados
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+---
+### Acesse o app no navegador: http://localhost:4200
 
-## Running end-to-end tests
+## ⚙️ Informações do Projeto
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+### 🏠 Acesse o app no navegador: http://localhost:4200
 
-## Further help
+### ProjetoBuzzfeed
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Este projeto foi gerado com o **Angular CLI** versão **14.1.2**.
+
+### 📁 Estrutura dos Dados
+As perguntas e os resultados estão armazenados em um arquivo .json, tornando o conteúdo facilmente gerenciável e expansível.
+
+### 💻 Development server
+
+Execute o comando:
+
+```bash
+ng serve
