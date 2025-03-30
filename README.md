@@ -1,3 +1,8 @@
+
+
+<img src="https://github.com/user-attachments/assets/230e589e-ea6d-4355-b9f5-3565bc8af3f7" alt="Preview do projeto" width="600"/>
+
+
 # ProjetoBuzzfeed
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
